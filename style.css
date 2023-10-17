@@ -1,14 +1,14 @@
 body{
-    background-color: antiquewhite;
+    background-color: #F2F2F2;
 }
 
-p{
+#titulo{
     text-align: justify;
-    font-size: 20px;
+    font-size: 30px;
 }
 
-h1 {
+.paragrafo {
     text-align: center;
-    font-size: 3opx;
-    color: rgb(0, 255, 183);
+    font-size: 20px;
+    color: #30348C;
 }
