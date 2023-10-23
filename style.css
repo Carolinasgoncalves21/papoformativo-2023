@@ -15,6 +15,6 @@ body{
     }
 
 .logo {
-    border-radius: 50%;
-    border: 1rem inset #30348c;
+    border-radius: 30px;
+    border: 1rem double #30348c;
 }
