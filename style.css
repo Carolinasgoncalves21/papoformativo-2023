@@ -16,5 +16,5 @@ body{
 
 .logo {
     border-radius: 50%;
-    border: 1rem inset #30348c,
+    border: 1rem solid #30348c,
 }
