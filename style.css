@@ -13,3 +13,8 @@ body{
     font-size: 20px;
     color: #4c3cb3;
     }
+
+.logo {
+    border-radius: 50%;
+    border: 1rem inset #30348c,
+}
