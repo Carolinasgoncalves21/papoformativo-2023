@@ -18,4 +18,6 @@ body{
     border-radius: 50px;
     border: 1rem double #3339A6;
     width: 150px;
+    margin: 20px;
+    padding: 5px;
 }
