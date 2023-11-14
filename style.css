@@ -35,5 +35,5 @@ body{
 .lista1 {
     text-align: center;
     content: "✅";
-    color: palevioletred;
+    background-color: palevioletred;
 }
