@@ -31,3 +31,7 @@ body{
     text-align: center;
     background-color: blue;
 }
+
+li::marker {
+    text-align: center;
+}
