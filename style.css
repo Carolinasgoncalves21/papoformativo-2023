@@ -35,4 +35,5 @@ body{
 li::marker {
     text-align: center;
     content: "✅";
+    color: palevioletred;
 }
