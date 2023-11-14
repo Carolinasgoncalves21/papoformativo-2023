@@ -33,7 +33,7 @@ body{
 }
 
 .lista1 {
-    text-align: center;
+    text-align: justify;
     content: "✅";
     background-color: palevioletred;
 }
