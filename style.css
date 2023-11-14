@@ -2,6 +2,9 @@ body{
     background-color: #F2F2F2;
 }
 
+.escola {
+    background-color: wheat;
+}
 #titulo{
     text-align: center;
     font-size: 50px;
