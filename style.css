@@ -3,7 +3,7 @@ body{
 }
 
 .escola {
-    background-color: blueviolet;
+    background-color: wheat;
 }
 
 #titulo{
@@ -24,4 +24,10 @@ body{
     width: 150px;
     margin: 5px;
     padding: 5px;
+}
+
+.listas {
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
 }
