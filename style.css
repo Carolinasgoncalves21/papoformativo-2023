@@ -1,9 +1,9 @@
 body{
-    background-image:  linear-gradient(#DFE0F2, #7B7DA6, #DFE0F2);
+    background-image:  linear-gradient(#DFE0F2, #FFFFFF);
 }
 
 .escola {
-    background-color: #7B7DA6;
+    background-color: white;
 }
 
 #titulo{
