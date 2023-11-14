@@ -3,7 +3,7 @@ body{
 }
 
 .escola {
-    background-color: wheat;
+    background-color: #3339A6;
 }
 
 #titulo{
@@ -29,11 +29,11 @@ body{
 .listas {
     font-size: 30px;
     text-align: center;
-    background-color: blue;
+    background-color: #30348C;
 }
 
 .lista1 {
     text-align: justify;
     content: "✅";
-    background-color: palevioletred;
+    background-color: #4A4E8C;
 }
