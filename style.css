@@ -8,6 +8,8 @@ body{
     padding: 20px;
     border-bottom: 2px dotted white;
     background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
 }
 .escola {
     background-color: white;
