@@ -1,13 +1,13 @@
 body{
-    background-image:  linear-gradient(#DFE0F2, #FFFFFF);
+    background-image:  linear-gradient(#DFE0F2, #F2C1B6);
 }
 
 .cabecalho {
     color: #30348C;
     font-size: 25px;
     padding: 20px;
-    border-bottom: 2px solid #F2C1B6;
-    background-color: #72735D;
+    border-bottom: 5px solid #72735D ;
+    background-color: #97BF95;
     display: flex;
     justify-content: space-around;
 }
