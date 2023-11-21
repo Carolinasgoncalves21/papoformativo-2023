@@ -28,10 +28,10 @@ body{
     color: #3339A6;
     }
 
-.logo {
+.img-cabecalho {
     border-radius: 50px;
     border: 0.5rem double #3339A6;
-    width: 150px;
+    width: 50px;
     margin: 5px;
     padding: 5px;
 }
