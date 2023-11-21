@@ -4,8 +4,9 @@ body{
 
 .cabecalho {
     color: #30348C;
-    font-size: 32px;
-
+    font-size:32px;
+    padding: 20px;
+    border-bottom: 2px outset #4A4E8C;
 }
 .escola {
     background-color: white;
