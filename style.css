@@ -12,6 +12,7 @@ body{
     justify-content: space-around;
 }
 .escola {
+    text-align: center;
     padding-top: 30px;
     background-color: white;
 }
