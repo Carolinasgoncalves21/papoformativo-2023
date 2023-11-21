@@ -32,11 +32,11 @@ body{
 
 .img-cabecalho {
     border-radius: 15px;
-    border: 0.5px double #3339A6;
+    border: 2px double #3339A6;
     width: 100px;
     height: 100px;
-    margin: 15px;
-    padding: 15px;
+    margin: 10px;
+    padding: 5px;
 }
 
 .listas {
