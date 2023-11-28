@@ -63,3 +63,8 @@ body{
 .lista1 {
     background-color: #B2D9A0;
 }
+
+li::marker {
+    content: "⭐";
+    color:#97BF95;
+}
